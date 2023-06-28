@@ -1,0 +1,28 @@
+10
+
+Bella 6.1
+Emma 5.76
+Mia 5.89
+Ella 6.12
+Ava 6.32
+Chloe 6.11
+Anna 5.89
+Grace 5.99
+Leah 5.94
+Sarah 6.01
+
+Bella Ella 2 6-2 6-3
+Emma Mia 2 7-5 6-3
+Ava Chloe  2 6-2 6-4
+Grace Leah 2 6-2 6-4
+Bella Sarah 2 6-4 6-4
+Anna Grace 2 6-3 6-3
+Sarah Emma 2 6-4 6-4
+Ella Mia 3 4-6 6-4 6-3
+Sarah Leah 2 6-4 7-5
+Chloe Anna 2 7-5 7-5
+Emma Mia 2 7-5 7-5 
+Chloe Ava 3 7-5 4-6 6-2
+Anna Ava 2 6-2 6-2
+Bella Sarah 2 7-5 7-6
+Mia Grace 3 4-6 6-4 6-4

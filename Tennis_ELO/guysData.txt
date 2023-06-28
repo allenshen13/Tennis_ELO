@@ -1,0 +1,35 @@
+10
+
+Allen 9.12
+Ian 9.41
+Rishi 9.13
+Rohan 9.45
+Druv 8.98
+Peter 8.76
+Alex 9.21
+Hudson 9.02
+Davis 8.66
+Asad 8.86
+
+Allen Rohan 2 6-2 6-3 
+Ian Rishi 2 7-5 6-3
+Druv Peter 2 6-2 6-4
+Hudson Davis 2 6-2 6-4
+Allen Asad  2 6-4 6-4
+Alex Hudson 2 6-3 6-3
+Asad Ian 2 6-4 6-4
+Rohan Rishi 2 6-3 6-3
+Asad Davis 2 6-4 7-5
+Peter Alex 2 7-5 7-5
+Ian Rishi 2 7-5 7-5 
+Davis Ian 3 6-4 2-6 6-3
+Rohan Rishi 3 3-6 6-4 6-4
+Allen Davis 2 6-4 7-5
+Peter Hudson 2 7-5 7-5
+Rishi Allen 2 7-5 7-5 
+Rohan Druv 2 6-3 6-4
+Asad Peter 2 6-4 7-5
+Peter Alex 2 7-5 7-5
+Rohan Rishi 2 7-5 7-5 
+Rohan Ian 3 6-4 2-6 6-3
+Allen Rishi 3 3-6 6-4 6-4
